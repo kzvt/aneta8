@@ -1,0 +1,18 @@
+[values]
+adhesion_type = skirt
+infill_pattern = grid
+layer_height = 0.2
+layer_height_0 = 0.2
+material_bed_temperature = 60.0
+material_print_temperature = 205
+material_print_temperature_layer_0 = 210
+retract_at_layer_change = True
+retraction_amount = 3.5
+retraction_combing = off
+retraction_min_travel = 0.76
+skin_line_width = 0.5
+skirt_line_count = 5
+speed_travel = 70
+speed_wall = 40
+top_bottom_pattern = zigzag
+

@@ -1,0 +1,19 @@
+[values]
+adhesion_type = skirt
+bottom_thickness = 0.8
+cool_fan_full_at_height = 0.5
+cool_fan_speed = 30
+cool_fan_speed_max = 70
+jerk_enabled = False
+layer_height = 0.2
+material_print_temperature = 199
+material_print_temperature_layer_0 = 199
+retraction_amount = 4.5
+retraction_min_travel = 1.5
+retraction_speed = 45
+skirt_line_count = 5
+speed_print = 30
+speed_topbottom = 20
+speed_travel = 50
+wall_thickness = 1.6
+

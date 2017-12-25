@@ -1,0 +1,16 @@
+
+
+[values]
+adhesion_type = skirt
+bottom_thickness = 1.2
+layer_height = 0.2
+material_bed_temperature = 55
+skirt_line_count = 5
+speed_infill = 80
+speed_layer_0 = 30
+speed_print = 35
+speed_topbottom = 20
+speed_travel = 55
+top_thickness = 1.2
+wall_thickness = 1.2
+
